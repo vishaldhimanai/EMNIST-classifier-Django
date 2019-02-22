@@ -3,8 +3,10 @@
 Dataset: https://www.kaggle.com/crawford/emnist
 
 Training Folder: EMNIST_classifier.zip
-Training acc: 
-Testing acc: 
+
+After 30 epoch
+1) Training acc: 0.9009
+2) Testing acc: 0.877
 
 1) Downlaod Web application DjangoWebApp.zip file
 2) Create Virtual environment : virtualenv env

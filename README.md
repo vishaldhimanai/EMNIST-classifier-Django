@@ -2,8 +2,6 @@
 
 Dataset: https://www.kaggle.com/crawford/emnist
 
-Training Folder: EMNIST_classifier.zip
-
 After 30 epoch
 1) Training acc: 0.9009
 2) Testing acc: 0.877
@@ -21,5 +19,5 @@ Web Application - Django
 9) Open http://127.0.0.1:8000
 ![bg](https://user-images.githubusercontent.com/14355490/53277276-15c61280-3729-11e9-95b4-70223d001525.JPG)
 
-# caution
+# Caution:
 Status: Django Web App under development

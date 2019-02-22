@@ -8,6 +8,7 @@ After 30 epoch
 1) Training acc: 0.9009
 2) Testing acc: 0.877
 
+Web Application - Django
 1) Downlaod Web application DjangoWebApp.zip file
 2) Create Virtual environment : virtualenv env
 3) Activate env : for linux: source env/bin/activate
